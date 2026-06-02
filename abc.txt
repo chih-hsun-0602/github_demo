@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-I'm a big boy
-I'm a virgin
-=======
-I'm a big girl
->>>>>>> test2
+I'm not a big girl
